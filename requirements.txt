@@ -1,0 +1,14 @@
+openai-whisper
+transformers
+torch
+PyMuPDF
+python-docx
+bitsandbytes
+accelerate
+gradio
+huggingface_hub
+gtts
+torchaudio
+flask-ngrok
+flask
+ngrok
